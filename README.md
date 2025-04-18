@@ -39,8 +39,5 @@ A **real-time chess application** built with **JavaScript**, **EJS**, and **Tail
 git clone https://github.com/kartik1729009/realt-time-chess-app.git
 cd realt-time-chess-app
 
-
-2. Run the code
-
 npm install
 npx nodemon
